@@ -14,3 +14,6 @@
 ![Ajitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajiteshrock&how_icons=true&theme=radical)\
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajiteshrock)](https://github.com/Ajiteshrock/github-readme-stats)
+
+
+### Technologies Worked On
