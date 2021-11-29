@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img src=""><img>
-
+![](https://user-images.githubusercontent.com/47673623/143887938-fbff53b9-cc54-4ba2-8232-6731a70451d4.png)
 
 
 - 🔭 I’m currently working on ... Python , microservices , Django , djangorest , MySQL 
